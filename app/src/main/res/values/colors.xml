@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_pink">#FFD1DC</color>
+    <color name="pastel_blue">#AEC6CF</color>
+    <color name="pastel_brown">#D2B48C</color>
+    <color name="pastel_purple">#CBAACB</color>
+    <color name="pastel_yellow">#FFF5BA</color>
+    <color name="dark_bg">#1E1E2E</color>
+    <color name="dark_surface">#313244</color>
+    <color name="cute_lavender">#CBA6F7</color>
+    <color name="moon_yellow">#F9E2AF</color>
+    <color name="text_light">#CDD6F4</color>
+    <color name="bg_pink">#FDF0F3</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_dark">#4A4A4A</color>
+    <color name="accent_pink">#F4A3B4</color>
+    <color name="accent_light_pink">#FDE2E7</color> ```
+</resources>
